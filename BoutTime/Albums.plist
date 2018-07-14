@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>album</key>
+		<string>Elvis Presley - Rock N&apos; Roll</string>
+		<key>year</key>
+		<integer>1956</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/Elvis-Presley-Rock-n-Roll/release/1475322</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Johnny Cash - Johnny Cash</string>
+		<key>year</key>
+		<integer>1957</integer>
+		<key>url</key>
+		<string>https://rateyourmusic.com/release/album/johnny-cash/johnny-cash/</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Carl Perkins - Dance Album of Carl Perkins</string>
+		<key>year</key>
+		<integer>1958</integer>
+		<key>url</key>
+		<string>https://rateyourmusic.com/release/album/carl_perkins/dance_album_of_carl_perkins/</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Richie Valens - Richie Valens</string>
+		<key>year</key>
+		<integer>1959</integer>
+		<key>url</key>
+		<string>https://rateyourmusic.com/release/album/ritchie-valens/ritchie-valens-1/</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Miles Davis - Sketches of Spain</string>
+		<key>year</key>
+		<integer>1960</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Sketches-Spain-50th-Anniversary-Legacy/dp/B001W63DYQ</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Elvis Presley - Blue Hawaii</string>
+		<key>year</key>
+		<integer>1961</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Blue-Hawaii-Elvis-Presley/dp/B000002X08</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Aretha Franklin - The Electrifying Aretha Franklin</string>
+		<key>year</key>
+		<integer>1962</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/Aretha-Franklin-The-Electrifying-Aretha-Franklin/release/2047785</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Bob Dylan - The Freewheeling Bob Dylan</string>
+		<key>year</key>
+		<integer>1963</integer>
+		<key>url</key>
+		<string>https://www.bobdylan.com/albums/freewheelin-bob-dylan/</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>The Beatles - Beatles for Sale</string>
+		<key>year</key>
+		<integer>1964</integer>
+		<key>url</key>
+		<string>https://www.thebeatles.com/album/beatles-sale</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>John Coltrane - A Love Supreme</string>
+		<key>year</key>
+		<integer>1965</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Love-Supreme-John-Coltrane/dp/B0000A118M</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>The Rolling Stones - Aftermath</string>
+		<key>year</key>
+		<integer>1966</integer>
+		<key>url</key>
+		<string>http://www.rollingstones.com/release/aftermath-uk/</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>The Beatles - Sgt. Pepper&apos;s</string>
+		<key>year</key>
+		<integer>1967</integer>
+		<key>url</key>
+		<string>https://www.allmusic.com/album/sgt-peppers-lonely-hearts-club-band-mw0000649874</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Simon &amp; Garfunkel - Bookends</string>
+		<key>year</key>
+		<integer>1968</integer>
+		<key>url</key>
+		<string>http://www.simonandgarfunkel.com/music/bookends/</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Led Zeppelin - Led Zeppelin II</string>
+		<key>year</key>
+		<integer>1969</integer>
+		<key>url</key>
+		<string>https://www.allmusic.com/album/led-zeppelin-ii-mw0000190649</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>The Stooges - Funhouse</string>
+		<key>year</key>
+		<integer>1970</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/The-Stooges-Fun-House/master/38209</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>The Who - Who&apos;s Next</string>
+		<key>year</key>
+		<integer>1971</integer>
+		<key>url</key>
+		<string>https://www.thewho.com/music/whos-next/</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Elton John - Honky Chateau</string>
+		<key>year</key>
+		<integer>1972</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Elton-John-%E2%80%8E-Honky-Ch%C3%A2teau/dp/B000001EGE</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Wings - Band on the Run</string>
+		<key>year</key>
+		<integer>1973</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/Paul-McCartney-And-Wings-Band-On-The-Run/master/48878</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Joni Mitchell - Court and Spark</string>
+		<key>year</key>
+		<integer>1974</integer>
+		<key>url</key>
+		<string>http://jonimitchell.com/music/album.cfm?id=7</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Pink Floyd - Wish You Were Here</string>
+		<key>year</key>
+		<integer>1975</integer>
+		<key>url</key>
+		<string>https://www.allmusic.com/album/wish-you-were-here-mw0000650633</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>David Bowie - Station to Station</string>
+		<key>year</key>
+		<integer>1976</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/David-Bowie-Station-To-Station/master/22420</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>The Ramones - Rocket to Russia</string>
+		<key>year</key>
+		<integer>1977</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/Ramones-Rocket-To-Russia/release/394413</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>The Clash - London Calling</string>
+		<key>year</key>
+		<integer>1979</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/The-Clash-London-Calling/master/19382</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>AC/DC - Back in Black</string>
+		<key>year</key>
+		<integer>1980</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/ACDC-Back-In-Black/release/1081164</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Grace Jones - Nightclubbing</string>
+		<key>year</key>
+		<integer>1981</integer>
+		<key>url</key>
+		<string>https://www.allmusic.com/album/nightclubbing-mw0000650329</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Michael Jackson - Thriller</string>
+		<key>year</key>
+		<integer>1982</integer>
+		<key>url</key>
+		<string>http://www.bbc.co.uk/music/reviews/649p/</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Paul Simon - Graceland</string>
+		<key>year</key>
+		<integer>1986</integer>
+		<key>url</key>
+		<string>https://www.allmusic.com/album/graceland-mw0000195707</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Prince - Sign of the Times</string>
+		<key>year</key>
+		<integer>1987</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/Prince-Sign-O-The-Times/release/432995</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>N.W.A - Straight Outta Compton</string>
+		<key>year</key>
+		<integer>1988</integer>
+		<key>url</key>
+		<string>https://www.discogs.com/NWA-Straight-Outta-Compton/master/26117</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Tom Petty - Full Moon Fever</string>
+		<key>year</key>
+		<integer>1989</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Full-Moon-Fever-Tom-Petty/dp/B000002O5L</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>R.E.M - Automatic for the People</string>
+		<key>year</key>
+		<integer>1992</integer>
+		<key>url</key>
+		<string>https://pitchfork.com/reviews/albums/rem-automatic-for-the-people/</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Nirvana - MTV Unplugged</string>
+		<key>year</key>
+		<integer>1994</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/MTV-Unplugged-New-York-Nirvana/dp/B000003TB9</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Oasis - (What&apos;s the Story) Morning Glory?</string>
+		<key>year</key>
+		<integer>1995</integer>
+		<key>url</key>
+		<string>https://www.allmusic.com/album/whats-the-story-morning-glory-mw0000176500</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Wilco - Being There</string>
+		<key>year</key>
+		<integer>1996</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Being-There-WILCO/dp/B000002N7G</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Sheryl Crow - The Globe Sessions</string>
+		<key>year</key>
+		<integer>1998</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Globe-Sessions-Sheryl-Crow/dp/B00000JO1Z</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Tom Waits - Mule Variations</string>
+		<key>year</key>
+		<integer>1999</integer>
+		<key>url</key>
+		<string>https://pitchfork.com/reviews/albums/8562-mule-variations/</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Radiohead - Kid A</string>
+		<key>year</key>
+		<integer>2000</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Kid-Radiohead/dp/B00004XONN</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Jay-Z - The Blueprint</string>
+		<key>year</key>
+		<integer>2000</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Blueprint-JAY-Z/dp/B00005O54T</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Coldplay - A Rush of Blood to the Head</string>
+		<key>year</key>
+		<integer>2002</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Rush-Blood-Head-Coldplay/dp/B000069AUI</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Taylor Swift - Fearless</string>
+		<key>year</key>
+		<integer>2008</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>U2 - No Line on the Horizon</string>
+		<key>year</key>
+		<integer>2009</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/No-Line-Horizon-U2/dp/B001O0EQ5U</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Arcade Fire - The Suburbs</string>
+		<key>year</key>
+		<integer>2010</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Suburbs-Arcade-Fire/dp/B003O85W3A</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Frank Ocean - Channel Orange</string>
+		<key>year</key>
+		<integer>2012</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/channel-ORANGE-Explicit-Frank-Ocean/dp/B008CJ0KI8</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Jenny Lewis - The Voyager</string>
+		<key>year</key>
+		<integer>2014</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Voyager-Jenny-Lewis/dp/B00KM30PVY</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Kendrick Lamar - To Pimp a Butterfly</string>
+		<key>year</key>
+		<integer>2015</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Pimp-Butterfly-Kendrick-Lamar/dp/B00UDDM7K0</string>
+	</dict>
+	<dict>
+		<key>event</key>
+		<string>Drake - More Life</string>
+		<key>year</key>
+		<integer>2017</integer>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/album/more-life/1216986780</string>
+	</dict>
+	<dict>
+		<key>album</key>
+		<string>Janelle Monae - Dirty Computer</string>
+		<key>year</key>
+		<integer>2018</integer>
+		<key>url</key>
+		<string>https://pitchfork.com/reviews/albums/janelle-monae-dirty-computer/</string>
+	</dict>
+</array>
+</plist>
