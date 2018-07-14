@@ -20,7 +20,7 @@
 	</dict>
 	<dict>
 		<key>album</key>
-		<string>Carl Perkins - Dance Album of Carl Perkins</string>
+		<string>Carl Perkins - Dance Album</string>
 		<key>year</key>
 		<integer>1958</integer>
 		<key>url</key>
@@ -52,7 +52,7 @@
 	</dict>
 	<dict>
 		<key>album</key>
-		<string>Aretha Franklin - The Electrifying Aretha Franklin</string>
+		<string>Aretha Franklin - The Electrifying </string>
 		<key>year</key>
 		<integer>1962</integer>
 		<key>url</key>
@@ -60,7 +60,7 @@
 	</dict>
 	<dict>
 		<key>album</key>
-		<string>Bob Dylan - The Freewheeling Bob Dylan</string>
+		<string>Bob Dylan - Freewheeling Bob Dylan</string>
 		<key>year</key>
 		<integer>1963</integer>
 		<key>url</key>
@@ -260,7 +260,7 @@
 	</dict>
 	<dict>
 		<key>event</key>
-		<string>Oasis - (What&apos;s the Story) Morning Glory?</string>
+		<string>Oasis - (WTS) Morning Glory?</string>
 		<key>year</key>
 		<integer>1995</integer>
 		<key>url</key>
@@ -308,7 +308,7 @@
 	</dict>
 	<dict>
 		<key>event</key>
-		<string>Coldplay - A Rush of Blood to the Head</string>
+		<string>Coldplay - A Rush of Blood</string>
 		<key>year</key>
 		<integer>2002</integer>
 		<key>url</key>
@@ -356,7 +356,7 @@
 	</dict>
 	<dict>
 		<key>event</key>
-		<string>Kendrick Lamar - To Pimp a Butterfly</string>
+		<string>Kendrick Lamar - Pimp a Butterfly</string>
 		<key>year</key>
 		<integer>2015</integer>
 		<key>url</key>
